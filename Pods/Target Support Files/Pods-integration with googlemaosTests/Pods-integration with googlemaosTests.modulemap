@@ -1,0 +1,6 @@
+framework module Pods_integration_with_googlemaosTests {
+  umbrella header "Pods-integration with googlemaosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
